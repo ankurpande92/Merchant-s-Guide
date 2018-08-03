@@ -1,0 +1,30 @@
+-Run Start.java from package com.thoughtworks.assignment.main.
+-All the output statements are displayed on console only.
+-I have kept the inputFile "InputFile.txt" at project level only which contain following sample inputs:
+
+glob is I
+prok is V
+pish is X
+tegj is L
+glob glob Silver is 34 Credits
+glob prok Gold is 57800 Credits
+pish pish Iron is 3910 Credits
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+how much is pish tegj glob glob ?
+how many Credits is glob prok Silver ?
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+how many Credits is glob prok Gold ?
+how many Credits is glob prok Iron ?
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+
+Corresponding sample output file :
+
+I have no idea what you are talking about 
+pish tegj glob glob is 42.0
+I have no idea what you are talking about 
+glob prok Silver is 68.0 Credits
+glob prok Gold is 57800.0 Credits
+glob prok Iron is 782.0 Credits
+I have no idea what you are talking about 
+
+-I am not that much familiar with Junit framework but still I have learn it from google and try to write it for few scenarios.
